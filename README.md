@@ -1,6 +1,6 @@
 Install Python.
 Install Ollama.
-Run the follwoing commands to get everything set up and test the scripts:-
+Run the following commands to get everything set up and test the scripts:-
   ollama run mistral.
   python -m venv venv
   venv\Scripts\activate     # On Windows
