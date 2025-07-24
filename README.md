@@ -1,4 +1,4 @@
-# LLM-Chat-Bot-
+# LLM-Chat-App-
 #Run the commands:
 
 Install Python.<br>
