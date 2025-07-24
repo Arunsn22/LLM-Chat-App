@@ -1,3 +1,6 @@
+# LLM-Chat-Bot-
+#Run the commands:
+
 Install Python.<br>
 Install Ollama.<br>
 Run the following commands to get everything set up and test the scripts:-<br>
